@@ -1,7 +1,5 @@
 # C++ on Sea Presentations 2024
 
-More slides will be added as and when they are provided.
-
 - [Hylo - The Safe Systems- and Generic-programming Language Built on Value Semantics](/Presentations/Hylo.pdf) by Dave Abrahams
 - [Understanding The constexpr 2-Step](/Presentations/Understanding_The_constexpr_Two_Step.pdf) by Jason Turner
 - [Talks That Don't Fit Elsewhere](/Presentations/Talks_That_Don't_Fit_Elsewhere.pdf) by Walter E Brown
@@ -24,7 +22,7 @@ More slides will be added as and when they are provided.
 - [How To Keep Your Binaries Small?](/Presentations/How_to_keep_your_binaries_small.pdf) by Sandor DARGO
 - [What Does It Take To Implement the Standard Library?](/Presentations/What_does_it_take_to_implement_the_standard_library.pdf) by Christopher Di Bella
 - [An (In-)Complete Guide to C++ Object Lifetimes](/Presentations/An_(In-)Complete_Guide_to_Cpp_Object_Lifetimes.pdf) by Jonathan Müller
-- [This is C++](/Presentations/This is Cpp.pdf) by Jon Kalb
+- [This is C++](/Presentations/This_is_Cpp.pdf) by Jon Kalb
 - [Iteration Revisited](/Presentations/Iteration_Revisited.pdf) by Tristan Brindle
 - [What it Takes to Implement the Standard Library II](/Presentations/What_it_takes_to_implement_the_standard_library_ii_an_excursion_into_libcxx.pdf) by Christopher Di Bella
 - [Reusable Code, Reusable Data Structures](/Presentations/Reusable_code_reusable_data_structures.pdf) by Sebastian Theophil
@@ -35,7 +33,7 @@ More slides will be added as and when they are provided.
 - [How and When To Write a Template](/Presentations/When_and_How_to_Write_a_Template.pdf) by Roth Michaels
 - [C++20 Modules - The Packaging and Binary Redistribution Story](/Presentations/Cpp_Modules_the_packaging_story.pdf) by Luis Caro Campos
 - [Fantastic Bugs and How to Test Them](/Presentations/Fantastic_Bugs_And_How_To_Test_Them.pdf) by Robert Leahy
-- [Overengineering `max(a, b)` - Mixed comparison functions, common references, and Rust's lifetime annotations](/Presentations/Overengineering_`max(a, b)`.pdf) by Jonathan Müller
+- [Overengineering `max(a, b)` - Mixed comparison functions, common references, and Rust's lifetime annotations](/Presentations/Overengineering_max_a_b.pdf) by Jonathan Müller
 - [Practical Tips for Safer C++](/Presentations/practical_tips_for_safer_cpp.pdf) by Tristan Brindle
 - [There Is a Method to the Madness of Performance!](/Presentations/There_Is_a_Method_to_the_Madness_of_Performance.pdf) by Eduardo Madrid
 - [Practical Production-proven Constexpr API Elements](/Presentations/practical_production_proven_constexpr_api_elements.pdf) by Marcus Boerger
