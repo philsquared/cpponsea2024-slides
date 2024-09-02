@@ -1,2 +1,49 @@
-# cpponsea2024-slides
-Slides from C++ on Sea 2024
+# C++ on Sea Presentations 2024
+
+More slides will be added as and when they are provided.
+
+- [Hylo - The Safe Systems- and Generic-programming Language Built on Value Semantics](/Presentations/Hylo.pdf) by Dave Abrahams
+- [Understanding The constexpr 2-Step](/Presentations/Understanding_The_constexpr_Two_Step.pdf) by Jason Turner
+- [Talks That Don't Fit Elsewhere](/Presentations/Talks_That_Don't_Fit_Elsewhere.pdf) by Walter E Brown
+- [Let's Program live: Joy and Pain of Concurrency with C++11 and C++20](/Presentations/Lets_Program_Live.pdf) by Nico Josuttis
+- [Improving Our Safety With a Quantities and Units Library](/Presentations/Improving_our_safety_with_a_quantities_and_units_library.pdf) by Mateusz Pusz
+- [Cache Friendly Data + Functional + Ranges = ❤️](/Presentations/Cache_friendly_data_functional_ranges.pdf) by Björn Fahller 
+- [A Kaleidoscope of Lambdas](/Presentations/kaleidoscope_of_lambdas.pdf) by Dawid Zalewski
+- [Fix Your Hardest Bugs With Ease With Time Travel Debugging](/Presentations/How_do_Time_Travel_Debuggers_Work.pdf) by Mark Williamson
+- [Catching Real-time Safety Violations](/Presentations/Catching Real-time Safety Violations.pdf) by David Rowland
+- [Run-Time Optimizations for Compile-Time Reflection](https://krzysztof-jusiak.github.io/talks/cpponsea2024/#/) by Kris Jusiak
+- [Hiding your Implementation Details is Not So Simple](/Presentations/Hiding_your_Implementation_Details_is_Not_So_Simple.pdf) by Amir Kirsh
+- [Abstraction Patterns for Cross Platform Development](/Presentations/Abstraction_Patterns_for_Cross_Platform_Development.pdf) by Al-Afiq Yeong
+- [Who Needs Unit Tests Anyway? Modernizing Legacy Code with 0% Code Coverage](/Presentations/Who_Needs_Unit_Tests_Anyway.pdf) by Jan Baart
+- [An Introduction to Swarm Intelligence Algorithms](/Presentations/An_Introduction_to_Swarm_Intelligence_Algorithms.pdf) by Frances Buontempo
+- [C++ Fundamentals - Algorithms](/Presentations/Cpp_Fundamentals_Algorithms.pdf) by Klaus Iglberger
+- [Being Friendly to Your Hardware](/Presentations/Being_friendly_to_your_hardware.pdf) by Ignas Bagdonas
+- [Building on clang-tidy to Move From printf-style to std::print-style Logging and Beyond](/Presentations/Building_on_clang-tidy_to_Move_From_printf-style_to_stdprint-style_Logging_and_Beyond.pdf) by Mike Crowe
+- [A New Dragon in the Den - Fast Conversion From Floating-Point Numbers](/Presentations/a_new_dragon_in_the_den.pdf) by Cassio Neri
+- [What Is a Range?](/Presentations/What_Is_A_Range.pdf) by Šimon Tóth
+- [How To Keep Your Binaries Small?](/Presentations/How_to_keep_your_binaries_small.pdf) by Sandor DARGO
+- [What Does It Take To Implement the Standard Library?](/Presentations/What_does_it_take_to_implement_the_standard_library.pdf) by Christopher Di Bella
+- [An (In-)Complete Guide to C++ Object Lifetimes](/Presentations/An_(In-)Complete_Guide_to_Cpp_Object_Lifetimes.pdf) by Jonathan Müller
+- [This is C++](/Presentations/This is Cpp.pdf) by Jon Kalb
+- [Iteration Revisited](/Presentations/Iteration_Revisited.pdf) by Tristan Brindle
+- [What it Takes to Implement the Standard Library II](/Presentations/What_it_takes_to_implement_the_standard_library_ii_an_excursion_into_libcxx.pdf) by Christopher Di Bella
+- [Reusable Code, Reusable Data Structures](/Presentations/Reusable_code_reusable_data_structures.pdf) by Sebastian Theophil
+- [Introduction to SWAR (SIMD Within A Register) - The Next Performance Frontier You Haven’t Heard Of!](/Presentations/Introduction_to_SWAR_(SIMD_Within_A_Register).pdf) by Jamie Pond
+- [Elevating Precision in C++ - A Journey Below the Surface of Floating-Point](/Presentations/Elevating_precision.pptx) by Tom Tesch
+- [Keynote: Not Getting Lost in Translations](/Presentations/Not_Getting_Lost_in_Translations.pdf) by Daniela Engert
+- [How Symbols Work and Why We Need Them](/Presentations/How_Symbols_Work_and_Why_We_Need_Them.pdf) by Anders Schau Knatten
+- [How and When To Write a Template](/Presentations/When_and_How_to_Write_a_Template.pdf) by Roth Michaels
+- [C++20 Modules - The Packaging and Binary Redistribution Story](/Presentations/Cpp_Modules_the_packaging_story.pdf) by Luis Caro Campos
+- [Fantastic Bugs and How to Test Them](/Presentations/Fantastic_Bugs_And_How_To_Test_Them.pdf) by Robert Leahy
+- [Overengineering `max(a, b)` - Mixed comparison functions, common references, and Rust's lifetime annotations](/Presentations/Overengineering_`max(a, b)`.pdf) by Jonathan Müller
+- [Practical Tips for Safer C++](/Presentations/practical_tips_for_safer_cpp.pdf) by Tristan Brindle
+- [There Is a Method to the Madness of Performance!](/Presentations/There_Is_a_Method_to_the_Madness_of_Performance.pdf) by Eduardo Madrid
+- [Practical Production-proven Constexpr API Elements](/Presentations/practical_production_proven_constexpr_api_elements.pdf) by Marcus Boerger
+- [Dependency Injection in C++ - A Practical Guide](/Presentations/Dependency_Injection_in_cpp.pdf) by Peter Muldoon
+- [Coroutines and gRPC](/Presentations/coroutines_and_grpc.pdf) by Jonathan Storey
+- [Allocator-Aware Type Design](https://github.com/jbcoe/allocators) by Jonathan Coe
+- [Pets, Cattle and Automatic Operations with Code](/Presentations/Pets_Cattle_and_automatic_operations_with_code.pdf) by Svyatoslav Feldsherov
+- [Testable by Design](https://arventech.com/cpponsea2024) by Steve Love
+- [Core and Other Guidelines - The Good, the Bad, the… Questionable?](/Presentations/Core_And_Other_Guidelines.pdf) by Arne Mertz
+- [Properties Of Unit Tests](/Presentations/Properties_of_Unit_Tests.pdf) by Arne Mertz
+- [Keynote: There is no Silver Bullet](/Presentations/There_Is_No_Silver_Bullet.pdf) by Klaus Iglberger
